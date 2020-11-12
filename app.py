@@ -15,7 +15,7 @@ Akan mendeteksi apakah seseorang memiliki diabetes atau tidak menggunakan Random
 """)
 
 #Display Gambar
-image = Image.open('D:/Repository ML/Diabates Prediction/Diabetes Prediction using machine learning.png')
+#image = Image.open('D:/Repository ML/Diabates Prediction/Diabetes Prediction using machine learning.png')
 st.image(image, caption = "Version 1.0", use_column_width=True)
 
 
